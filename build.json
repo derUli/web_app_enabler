@@ -1,0 +1,8 @@
+{
+   "id" : "web_app_enabler",
+   "version" : "1.0",
+   "description" : "Enables your UliCMS site to run in App mode in Android and iOS.",
+   "categories" : ["web", "app", "metatags"],
+   "compatible_from" : "2017.1",
+   "dependencies" : []
+}
